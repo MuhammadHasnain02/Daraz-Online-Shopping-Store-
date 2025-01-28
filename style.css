@@ -1,6 +1,5 @@
-
 body{
-    margin-left: 100px;
+    margin-left:  100px;
     margin-right: 100px;
     background-color: rgb(247, 245, 245);
 }
@@ -47,6 +46,8 @@ body{
 .maindivcard{
     margin-top: 40px;
     margin-bottom: 60px;
+    /* margin-left:  80px; */
+    /* margin-right: 80px; */
 }
 /* SLIDER */
 
@@ -61,18 +62,18 @@ body{
     padding-bottom: 8px;
 }
 
-.cardset1 {width: 140px; padding-top: 20px; padding-left: 40px; margin-bottom: -5px;}
-.cardset2 {width: 150px; padding-top: 20px; padding-left: 27px; margin-bottom: -5px;}
-.cardset3 {width: 140px; padding-top: 20px; padding-left: 33px; margin-bottom: -5px;}
-.cardset4 {width: 150px; padding-top: 20px; padding-left: 20px; margin-bottom: -5px;}
-.cardset5 {width: 160px; padding-top: 20px; padding-left: 20px; margin-bottom: -5px;}
-.cardset6 {width: 140px; padding-top: 20px; padding-left: 20px; margin-bottom: -5px;}
-.cardset7 {width: 170px; padding-top: 26px; padding-left: 12px; margin-bottom: -5px;}
-.cardset8 {width: 150px; padding-top: 20px; padding-left: 33px; margin-bottom: -5px;}
-.cardset9 {width: 150px; padding-top: 10px; padding-left: 30px; margin-bottom: -7px;}
-.cardset10{width: 150px; padding-top: 15px; padding-left: 28px; margin-bottom: -5px;}
-.cardset11{width: 160px; padding-top: 30px; padding-left: 32px; margin-bottom: -4px;}
-.cardset12{width: 160px; padding-top: 34px; padding-left: 20px; margin-bottom: -5px;}
+.cardset1 {width: 170px; padding-top: 20px; padding-left: 70px; margin-bottom: -5px;}
+.cardset2 {width: 180px; padding-top: 20px; padding-left: 58px; margin-bottom: -5px;}
+.cardset3 {width: 175px; padding-top: 20px; padding-left: 70px; margin-bottom: -5px;}
+.cardset4 {width: 180px; padding-top: 20px; padding-left: 55px; margin-bottom: -5px;}
+.cardset5 {width: 190px; padding-top: 20px; padding-left: 55px; margin-bottom: -5px;}
+.cardset6 {width: 180px; padding-top: 20px; padding-left: 65px; margin-bottom: -5px;}
+.cardset7 {width: 190px; padding-top: 26px; padding-left: 55px; margin-bottom: -5px;}
+.cardset8 {width: 175px; padding-top: 20px; padding-left: 70px; margin-bottom: -5px;}
+.cardset9 {width: 180px; padding-top: 10px; padding-left: 70px; margin-bottom: -7px;}
+.cardset10{width: 185px; padding-top: 15px; padding-left: 70px; margin-bottom: -5px;}
+.cardset11{width: 190px; padding-top: 30px; padding-left: 70px; margin-bottom: -4px;}
+.cardset12{width: 200px; padding-top: 34px; padding-left: 70px; margin-bottom: -5px;}
 
 
 .cardtext1 {text-align: center; font-size: 18px; padding-top: 9px;}
@@ -113,29 +114,29 @@ body{
 
 
 .bigcard1>a>img {
-    width: 210px;
+    width: 320px;
     height: 170px;
     padding-left: 40px;
 }
 .bigcard2>a>img {
-    width: 210px;
+    width: 275px;
     height: 170px;
-    padding-left: 40px;
+    padding-left: 94px;
 }
 .bigcard3>a>img {
-    width: 210px;
+    width: 300px;
     height: 170px;
-    padding-left: 40px;
+    padding-left: 77px;
 }
 .bigcard4>a>img {
-    width: 210px;
+    width: 286px;
     height: 170px;
-    padding-left: 40px;
+    padding-left: 66px;
 }
 .bigcard5>a>img {
-    width: 210px;
+    width: 280px;
     height: 170px;
-    padding-left: 40px;
+    padding-left: 93px;
 }
 .bigcard6>a>img {
     width: 210px;
